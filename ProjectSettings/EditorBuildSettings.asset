@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/StartScreen.unity
+    guid: 81d3959c68d7a834b80456085fa234c5
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/RedCave-Overpass.unity
+    guid: 961e9f55d4294c54c997b4f489ea45c7
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/RedCave-OverAndUnder.unity
+    guid: f7aae1087827fa041a02239d27cd5535
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/RedCave-MovingRock.unity
+    guid: 683f0be659a7b5e4080a59ab7ac13f98
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/GreenCave-Gap.unity
+    guid: a441eb4fd6275a5409fb23dfffe004be
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/GreenCave-MoreGap.unity
+    guid: 37cecc926be47eb4a8bbb67d892d67a6
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/AmythystCave-FloatingRocks 1.unity
+    guid: ae70a9f9715b5cc4d9a9f2d385576eb5
+  - enabled: 1
+    path: Assets/Scenes/Completed Scenes/AmythystCave-MovingPlatform.unity
+    guid: 8a309d550952b6743a7c5822f29d9f30
+  m_configObjects: {}
